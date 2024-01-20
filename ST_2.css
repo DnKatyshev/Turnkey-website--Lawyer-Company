@@ -369,7 +369,7 @@ header{
     background: #000;
     display: none;
     overflow: auto;
-    z-index: 2;
+    z-index: 2; 
 
 }
 .header__menu li {
